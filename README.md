@@ -9,6 +9,7 @@ Projeto simples que usa como base a aula do professor Yuri Padilha, da Alura, no
 - align-items
 - flex-grow
 - flex-shrink
-- flex-basis
+- flex-basis   
 
-![alurinha]("C:\Users\Lucas\OneDrive\Área de Trabalho\Cursos\ONE\Frontend\alurinha\img\Alurinha _ Cursos online - Google Chrome 26_06_2022 22_39_02.png")
+
+![alurinha](https://user-images.githubusercontent.com/94722696/175845826-d5861721-6f51-4e15-929e-c0601e7b9e71.png)
